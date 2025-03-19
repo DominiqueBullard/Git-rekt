@@ -1,6 +1,6 @@
 Short description commit
 
-Longer description
+Longer description commit
 
-Fixes-Bug: Enter bug-id or delete line
+Fixes-Bug: Enter Bug
 Implements-Requirement: Enter requirement-id or delete line
