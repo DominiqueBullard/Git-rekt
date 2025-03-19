@@ -1,0 +1,6 @@
+Short description commit
+
+Longer description
+
+Fixes-Bug: Enter bug-id or delete line
+Implements-Requirement: Enter requirement-id or delete line
